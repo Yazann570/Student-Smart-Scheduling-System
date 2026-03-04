@@ -1,0 +1,32 @@
+# =========================
+# Visual Studio / ASP.NET Core
+# =========================
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio temporary files
+.vs/
+
+# Build results
+bin/
+obj/
+TestResults/
+
+# Rider
+.idea/
+
+# NPM / Node
+node_modules/
+npm-debug.log
+yarn-error.log
+dist/
+build/
+
+# Others
+*.log
+*.lock.json
