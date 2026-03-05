@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SmartSchedulingSystem/1.0.0": {
+        "runtime": {
+          "SmartSchedulingSystem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SmartSchedulingSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
