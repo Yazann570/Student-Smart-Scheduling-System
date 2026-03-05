@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3P73pytLsk4=",
+  "dgSpecHash": "IprELpK6KOg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\HP\\Documents\\gp2\\SmartSchedulingSystem\\SmartSchedulingSystem.csproj",
+  "projectFilePath": "C:\\Users\\HP\\Documents\\a7a\\SmartSchedulingSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.23\\microsoft.netcore.app.ref.8.0.23.nupkg.sha512",
     "C:\\Users\\HP\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.23\\microsoft.windowsdesktop.app.ref.8.0.23.nupkg.sha512",

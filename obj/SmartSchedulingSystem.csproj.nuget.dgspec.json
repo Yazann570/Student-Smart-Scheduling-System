@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\Documents\\gp2\\SmartSchedulingSystem\\SmartSchedulingSystem.csproj": {}
+    "C:\\Users\\HP\\Documents\\a7a\\SmartSchedulingSystem.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\Documents\\gp2\\SmartSchedulingSystem\\SmartSchedulingSystem.csproj": {
+    "C:\\Users\\HP\\Documents\\a7a\\SmartSchedulingSystem.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\Documents\\gp2\\SmartSchedulingSystem\\SmartSchedulingSystem.csproj",
+        "projectUniqueName": "C:\\Users\\HP\\Documents\\a7a\\SmartSchedulingSystem.csproj",
         "projectName": "SmartSchedulingSystem",
-        "projectPath": "C:\\Users\\HP\\Documents\\gp2\\SmartSchedulingSystem\\SmartSchedulingSystem.csproj",
+        "projectPath": "C:\\Users\\HP\\Documents\\a7a\\SmartSchedulingSystem.csproj",
         "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\Documents\\gp2\\SmartSchedulingSystem\\obj\\",
+        "outputPath": "C:\\Users\\HP\\Documents\\a7a\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
